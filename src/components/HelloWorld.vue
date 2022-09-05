@@ -16,7 +16,7 @@ export default {
   }
 }
 </script>
-<style lang="scss" scoped>
+<style lang="less" scoped>
 .box {
   h1 {
     margin-top: 20%;

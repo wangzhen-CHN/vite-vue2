@@ -1,11 +1,11 @@
 <template>
-  <HelloWorld></HelloWorld>
+  <ElTable></ElTable>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import ElTable from './components/table.vue'
 export default {
-  components: { HelloWorld },
+  components: { ElTable },
   data() {
     return {
       name: 1
